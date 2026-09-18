@@ -3,6 +3,7 @@ const translations = {
     "nav.about": "About", "nav.news": "News", "nav.publications": "Publications", "nav.education": "Education", "nav.contact": "Contact",
     "hero.eyebrow": "REMOTE SENSING · MULTIMODAL LEARNING · GEOSPATIAL AI",
     "hero.role": "Ph.D. Student · Beijing Forestry University",
+    "affiliations.meituan": "Meituan · Applied AI", "affiliations.ant": "Ant Group · Data Systems",
     "hero.summary": "I build efficient vision and multimodal systems for understanding high-resolution Earth observation data, with current work spanning change detection, image restoration, and scalable geospatial intelligence.",
     "hero.viewPublications": "View publications", "hero.note": "Researcher in remote sensing and intelligent information systems",
     "about.eyebrow": "ABOUT ME", "about.title": "Research at the intersection of vision, language, and Earth observation.",
@@ -21,13 +22,14 @@ const translations = {
     "pubs.forest.desc": "A Hadoop- and HBase-based storage framework for heterogeneous forest ecological station data, with RowKey retrieval and secondary indexing through Elasticsearch.",
     "edu.eyebrow": "BACKGROUND", "edu.title": "Education & experience", "edu.education": "Education", "edu.experience": "Experience",
     "edu.meituan": "Applied AI and large-scale data systems", "edu.ant": "Data systems and intelligent applications", "edu.meituan2": "Big data engineering and applied analytics",
-    "contact.eyebrow": "LET'S CONNECT", "contact.title": "Working on a remote sensing problem?", "contact.body": "I am open to research conversations, collaborations, and discussions around efficient geospatial AI.", "contact.email": "Send an email ↗",
+    "contact.eyebrow": "LET'S CONNECT", "contact.title": "Working on a remote sensing problem?", "contact.body": "I am open to research conversations, collaborations, and discussions around efficient geospatial AI.", "contact.email": "Academic email ↗", "contact.workEmail": "Work email ↗",
     "footer.built": "Built for GitHub Pages · Updated 2026"
   },
   zh: {
     "nav.about": "关于我", "nav.news": "动态", "nav.publications": "论文", "nav.education": "经历", "nav.contact": "联系",
     "hero.eyebrow": "遥感 · 多模态学习 · 地理空间智能",
     "hero.role": "北京林业大学 · 博士研究生",
+    "affiliations.meituan": "美团 · 应用人工智能", "affiliations.ant": "蚂蚁集团 · 数据系统",
     "hero.summary": "我致力于构建高效的视觉与多模态系统，用于理解高分辨率地球观测数据。目前研究涵盖变化检测、图像复原和可扩展地理空间智能。 ",
     "hero.viewPublications": "查看论文", "hero.note": "遥感与智能信息处理方向研究者",
     "about.eyebrow": "关于我", "about.title": "在视觉、语言与地球观测的交叉处开展研究。",
@@ -46,7 +48,7 @@ const translations = {
     "pubs.forest.desc": "面向森林生态站异构数据设计基于 Hadoop 与 HBase 的存储框架，并结合 RowKey 检索和 Elasticsearch 二级索引。",
     "edu.eyebrow": "个人经历", "edu.title": "教育与工作经历", "edu.education": "教育经历", "edu.experience": "工作经历",
     "edu.meituan": "应用人工智能与大规模数据系统", "edu.ant": "数据系统与智能应用", "edu.meituan2": "大数据工程与应用分析",
-    "contact.eyebrow": "保持联系", "contact.title": "正在研究遥感问题？", "contact.body": "欢迎就高效地理空间智能开展学术交流、合作与讨论。", "contact.email": "发送邮件 ↗",
+    "contact.eyebrow": "保持联系", "contact.title": "正在研究遥感问题？", "contact.body": "欢迎就高效地理空间智能开展学术交流、合作与讨论。", "contact.email": "学术邮箱 ↗", "contact.workEmail": "工作邮箱 ↗",
     "footer.built": "GitHub Pages 学术主页 · 2026 更新"
   }
 };
