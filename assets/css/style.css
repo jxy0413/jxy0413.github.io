@@ -114,7 +114,7 @@ h1 span { display: inline-block; margin-left: .15em; color: var(--muted); font-s
 .paper-links { display: flex; flex-wrap: wrap; gap: .45rem; margin-top: auto; }
 .paper-links a { padding: .32rem .7rem; border: 1px solid var(--line); border-radius: 999px; color: var(--accent); font-size: .72rem; font-weight: 750; }
 .paper-links a:hover { border-color: var(--accent); background: var(--accent-soft); }
-.simple-card { display: block; min-height: 0; }
+.simple-card { min-height: 0; }
 .simple-card .publication-body { padding: 1.45rem 1.8rem; }
 
 .split-section { display: grid; grid-template-columns: .75fr 1.25fr; gap: 5rem; }
